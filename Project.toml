@@ -1,0 +1,8 @@
+name = "HistDist"
+uuid = "b80b6865-e545-4d92-b379-1fc29557a444"
+authors = ["Rodri G.Ruiz <rgruiz0001@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+FHist = "68837c9b-b678-4cd5-9925-8a54edc8f695"

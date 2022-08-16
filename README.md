@@ -1,1 +1,3 @@
-# HistDist.jl
+This package compares histograms
+
+
